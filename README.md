@@ -749,7 +749,7 @@ npm run dev
 Backend:
 
 ```text
-http://localhost:5000
+https://edulead-backend.onrender.com
 ```
 
 ### Seed Demo Users
